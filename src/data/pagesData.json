@@ -1,0 +1,56 @@
+[
+  {
+    "id": "watch",
+    "title": "Beckend",
+    "subtitle": "Beckend o'quv kursi",
+    "caption": "Backend - xizmatning dasturiy va apparat qismi bo'lib, uning ichki qismi ishlashi uchun javobgardir.",
+    "buttonText": "Beckend",
+    "buttonLink": "https://www.apple.com/in/apple-watch-se/",
+    "imageOriginalName": "beck7.png"
+  },
+  {
+    "id": "iphone",
+    "title": "Ui/Ux Dizayner",
+    "subtitle": "Ui/Ux o'quv kursi",
+    "caption": "Dizaynerining maqsadi - foydalanuvchini interfeysning mantiqiy nuqtasiga etkazish.",
+    "buttonText": "Ui/Ux dizayn",
+    "buttonLink": "https://www.apple.com/in/iphone-12/",
+    "imageOriginalName": "ui.png"
+  },
+  {
+    "id": "ipad",
+    "title": "3ds Max",
+    "subtitle": "3d Max o'quv kursi",
+    "caption": "Autodesk 3dsMax - bu o'yinlarni yaratish va loyihalash uchun professional 3D -modellashtirish, animatsiya va renderlash dasturi.",
+    "buttonText": "3ds Max",
+    "buttonLink": "https://www.apple.com/in/ipad-pro/",
+    "imageOriginalName": "3dmax.png"
+  },
+  {
+    "id": "mac",
+    "title": "iOS dasturchi",
+    "subtitle": "iOS o'quv kursi",
+    "caption": "iOS - bu Amerikaning Apple kompaniyasi tomonidan ishlab chiqilgan smartfonlar, elektron planshetlar, taqiladigan pleyerlar va boshqa qurilmalar uchun mobil operatsion tizim.",
+    "buttonText": "iOS",
+    "buttonLink": "https://www.apple.com/in/macbook-pro-13/",
+    "imageOriginalName": "ioss.png"
+  },
+  {
+    "id": "mouse",
+    "title": "Flutter",
+    "subtitle": "Flutter o'quv kursi",
+    "caption": "Flutter - bu Android va iOS uchun mobil ilovalarni, shuningdek Google korporatsiyasi tomonidan ishlab chiqilgan va ishlab chiqilgan Dart dasturlash tili yordamida veb -ilovalarni yaratish uchun ochiq manbali dasturiy ta'minot to'plami.",
+    "buttonText": "Flutter",
+    "buttonLink": "https://www.apple.com/in/shop/product/MLA02ZM/A/magic-mouse-2-silver",
+    "imageOriginalName": "flutter.png"
+  },
+ {
+    "id": "airpod",
+    "title": "Frontend",
+    "subtitle": "Frontend o'quv kursi",
+    "caption": "Bu - xizmatning dasturiy va apparat qismining foydalanuvchi interfeysi mijoz tomoni.",
+    "buttonText": "Frontend",
+    "buttonLink": "/about",
+    "imageOriginalName": "fr2.png"
+  }
+]
